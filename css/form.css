@@ -1,0 +1,40 @@
+body 
+{
+    background-color:#3C3E5A;
+}
+*
+{
+    box-sizing:border-box;
+    margin: 0;
+    padding:0;
+}
+.u
+{
+   background-color: red; 
+    padding:0rem;
+    text-align: center;
+    
+    
+
+}
+.i 
+{
+    background-color: wheat;
+}
+ .card {
+    backdrop-filter: blur(10px) saturate(200%);
+    -webkit-backdrop-filter: blur(10px) saturate(200%);
+    background-color: rgba(191, 191, 191, 0.29);
+    border-radius: 12px;
+    padding: 3rem;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+/* Glassmorphism card effect */
+.card1 {
+    backdrop-filter: blur(5px) saturate(200%);
+    -webkit-backdrop-filter: blur(5px) saturate(200%);
+    background-color: rgba(90, 90, 90, 0.17);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    
+}

@@ -1,0 +1,130 @@
+/*.cp .m .card {
+   padding: 5.08rem 2.503rem;
+   border-radius:2.5rem;
+   margin:.5rem;
+    background-color:rgba(0,256,174,.551);
+    
+}*/
+.m .mn .card .v
+{
+    text-decoration: none;
+    color:#fff;
+}
+body 
+{
+    background-color:darkslategrey; 
+}
+.h .cd 
+{
+	background-color:rgba(0,256,174,.551);
+}
+.h .cd .info 
+{
+
+}
+.h .cd .c .cn 
+{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+.m .mn
+{
+    margin-top:2rem;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content:center;  
+}
+.h 
+{
+    display:flex; 
+    flex-direction:column;
+    justify-content:center;
+    
+}
+.h span 
+{
+    font-size:1.312rem;
+    font-weight:800;
+
+ }
+ .h p 
+ {
+     font-size:1.102rem;
+     padding:0rem 1.5rem;
+     font-weight:600;
+ }
+.h .s 
+{
+    display:flex; 
+    justify-content:center;
+    flex-direction:row;
+    align-items:center;
+}
+.h .k 
+{
+    text-align:left;
+    padding:2rem;
+}
+.h .sp 
+{
+    margin-left:.5rem;
+}
+.log 
+{
+    margin-top:.51rem;
+    display:flex;
+    justify-content:center;
+    padding:1rem;
+    background-color:rgba(0,255,174,0.55);
+   
+}
+.log .lg .l 
+{
+     color:#ffff;
+     font-size:1.2rem;
+     
+}
+.p 
+{
+    background-color:rgba(0,256,155,0.55);
+}
+.p 
+{
+    display:flex;
+    flex-direction:column;
+    height: 100vh;
+    align-content:center; 
+    justify-content:center;
+    align-items:center;
+    
+}
+.n .nav-link 
+{
+    padding:3rem 0;
+    font-size:1.3rem;
+    font-weight:bold;
+    
+    
+}
+a 
+{
+    color: #ffff!important;
+    text-decoration:none!important;
+    padding: 1rem 0;
+}
+.nv 
+{
+
+}
+.n
+{
+    display:flex;
+    flex-direction:column;
+}
+
+
+
+
